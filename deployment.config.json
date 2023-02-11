@@ -1,7 +1,7 @@
 { 
-  "verification": false, 
-  "api_key":"YOUR_SENDGRID_API_KEY",
+  "verification": True, 
+  "api_key":"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",
   "sendFromEmail":"THE EMAIL THE CODES WILL BE SENT FROM (MUST BE VERIFIED IN SENDGRID)",
   "type": "code", 
-  "email": "YOUR_EMAIL_HERE"
+  "email": "randombc123412@outlook.com"
 }
